@@ -1,0 +1,1 @@
+# This directory is used for temporary file storage during KYC processing
