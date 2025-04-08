@@ -45,7 +45,7 @@ A modern Know Your Customer (KYC) verification system that uses artificial intel
 
 1. Clone the repository:
 ```bash
-[Repository URL will be added here]
+https://github.com/arpiitt/AI-KYC-System.git
 ```
 
 2. Set up the Python virtual environment:
